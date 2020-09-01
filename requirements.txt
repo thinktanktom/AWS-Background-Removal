@@ -1,0 +1,24 @@
+Flask==1.1.2
+
+gunicorn==20.0.4
+imageio==2.9.0
+isort==4.3.21
+
+Jinja2==2.11.2
+matplotlib
+mccabe==0.6.1
+networkx==2.4
+numpy==1.19.1
+Pillow==7.2.0
+
+requests==2.24.0
+scikit-image==0.17.2
+scipy==1.5.2
+
+-f https://download.pytorch.org/whl/torch_stable.html                                                                                                                                                        
+torch==1.5.0+cpu
+torchvision==0.6.0+cpu
+urllib3==1.25.10
+Werkzeug==1.0.1
+
+
